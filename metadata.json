@@ -1,0 +1,5 @@
+{
+  "name": "Superheater Property Analyzer",
+  "description": "An intelligent analyzer that provides superheater properties using Gemini. Input steam flow, temperature, and pressure, and see how water spray (attemperation) is used for temperature control, with information grounded by Google Search for accuracy.",
+  "requestFramePermissions": []
+}
